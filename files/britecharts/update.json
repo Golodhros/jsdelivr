@@ -1,0 +1,9 @@
+
+{
+  "packageManager": "github",
+  "name": "britecharts",
+  "repo": "eventbrite/britecharts",
+  "files": {
+    "include": ["dist/bundled/britecharts.min.js","dist/css/britecharts.min.css"]
+  }
+}
